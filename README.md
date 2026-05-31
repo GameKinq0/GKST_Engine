@@ -71,4 +71,4 @@ Karmaşık 3D modelleri oyun motorlarına aktarmak bir kabustur. Roblox'un parç
 4. **"Akıllı Export (Smart Export)"** butonuna tıklayın. Motor; parçalama, eksen düzeltme ve ölçek uygulamalarını otomatik halledecektir.
 
 ---
-*Created by GameKinq0 - Founder & Lead Developer at GameKing Studio.*
+*Created by GameKinq0 - Founder & Lead Developer at Gameking Studio.*
